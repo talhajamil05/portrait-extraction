@@ -44,3 +44,4 @@ To run the containerized version:
 - The API will be accessible at http://0.0.0.0:8000
 
 ### Architecture and Flow
+- ![screenshot](architecture.png)
