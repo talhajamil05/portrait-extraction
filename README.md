@@ -42,3 +42,5 @@ To run the containerized version:
 - Run the Docker Container:
 ```docker run -p 8000:8000 portrait-extractor```
 - The API will be accessible at http://0.0.0.0:8000
+
+### Architecture and Flow
